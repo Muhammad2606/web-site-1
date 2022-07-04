@@ -148,9 +148,9 @@ header .navbar{
   }
   .design-content{
     display: grid;
-        margin-left: 8em;
+        margin-left: 10em;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 2rem;
+    grid-gap: 3rem;
   }
   .design-item{
     margin: 0;
